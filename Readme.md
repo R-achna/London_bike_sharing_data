@@ -34,14 +34,15 @@ This project analyzes London's bike sharing data to uncover patterns in bike usa
 ---
 
 ```sql
-/bike-behavior-sql
-  ├── data/
-  │   └── london_merged.csv
-  ├── queries/
-  │   └── time_based_behavior.sql
-  ├── visuals/
-  │   └── hourly_usage_chart.png
-  └── README.md
+london-bike-analysis/
+│
+├── data/
+│   └── london-merged.csv
+│
+├── queries/
+│   └── bike sharing analysis.sql
+│
+├── README.md
 ```
 
 **Tools Used**
